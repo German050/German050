@@ -1,0 +1,5 @@
+- 👋 Hi, My name is German
+- 👀 I want to work remotely
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on
+- 📫 You can write to me by mail: bga1509@gmail.com
